@@ -1,6 +1,6 @@
 # Personal_projects during job
 
-## Angular with json-server
+## Angular E-commerce Web App
 https://github.com/Bhagi-developer/angular-ecommerce-app
 
 # College_projects
