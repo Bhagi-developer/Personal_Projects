@@ -4,8 +4,11 @@ Contains links of projects that I have implemented during my college in computer
 
 ## Static beginner projects, (HTML, CSS, javascript)
 https://github.com/Bhagi-developer/Static_My-Online-Food-Website ([Demo](https://bhagi-developer.github.io/Static_My-Online-Food-Website/))
+
 https://github.com/Bhagi-developer/Static_virtual-windows11
+
 https://github.com/Bhagi-developer/Static_Calculator-Web-App ([Demo](https://bhagi-developer.github.io/Static_Calculator-Web-App/))
+
 
 ## Medium to advance projects, (React, React Native, Node js, MongoDB, Chrome Extension Development)   
   ### React, Node.js, MongoDB
