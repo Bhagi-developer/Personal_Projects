@@ -1,4 +1,4 @@
-# Personal_projects during job
+# Personal projects
 
 ## E-commerce Web App in Angular
 https://github.com/Bhagi-developer/angular-ecommerce-app
