@@ -1,5 +1,5 @@
 # College_projects
-Contains links of projects that I have implemented during my college in computer engineering at Ld College of Engineering.
+links to all my projects for easy access and exploration.
 
 
 ## Static beginner projects, (HTML, CSS, javascript)
