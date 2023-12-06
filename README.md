@@ -16,8 +16,6 @@ https://github.com/Bhagi-developer/SocialJs
 
 https://github.com/Bhagi-developer/Dynamic_ToDoList-Web-App
 
-https://github.com/Bhagi-developer/Dynamic_BlogPost-Web-App
-
  ### React Native
 https://github.com/Bhagi-developer/crypto-companion-app ([Demo](https://snack.expo.dev/@bhagi/main-project-crypto)) 
 
