@@ -1,5 +1,8 @@
 # Personal projects
 
+## Medium Profile, Blogs about my learnings in following techs.
+https://medium.com/@bhagirathsinhmakwana2001
+
 ## E-commerce Web App in Angular
 https://github.com/Bhagi-developer/angular-ecommerce-app
 
