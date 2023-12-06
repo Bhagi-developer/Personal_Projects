@@ -1,6 +1,9 @@
-# College_projects
-links to all my projects for easy access and exploration.
+# Personal_projects during job
 
+## Angular with json-server
+https://github.com/Bhagi-developer/angular-ecommerce-app
+
+# College_projects
 
 ## Static beginner projects, (HTML, CSS, javascript)
 https://github.com/Bhagi-developer/Static_My-Online-Food-Website ([Demo](https://bhagi-developer.github.io/Static_My-Online-Food-Website/))
