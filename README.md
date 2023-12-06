@@ -1,6 +1,6 @@
 # Personal projects
 
-## Medium Profile, Blogs about my learnings in following techs.
+## Medium Profile, Blogs about my learnings in job profile technologies.
 https://medium.com/@bhagirathsinhmakwana2001
 
 ## E-commerce Web App in Angular
