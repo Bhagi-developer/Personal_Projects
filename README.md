@@ -7,8 +7,10 @@ https://medium.com/@bhagirathsinhmakwana2001
 https://github.com/Bhagi-developer/angular-ecommerce-app
 
 ## Pokemon Review App 
-# Angular- https://github.com/Bhagi-developer/ngPokemonReviewApp
-# dot net web API- https://github.com/Bhagi-developer/dotNetPokemonReviewApp
+# Angular-
+https://github.com/Bhagi-developer/ngPokemonReviewApp
+# dot net web API-
+https://github.com/Bhagi-developer/dotNetPokemonReviewApp
 
 # College_projects
 
