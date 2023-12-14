@@ -1,9 +1,9 @@
 # Personal projects
 
-## Medium Profile, Blogs about my learnings in job profile technologies.
+# Medium Profile, Blogs about my learnings in job profile technologies.
 https://medium.com/@bhagirathsinhmakwana2001
 
-## E-commerce Web App in Angular
+# E-commerce Web App in Angular
 https://github.com/Bhagi-developer/angular-ecommerce-app
 
 # Pokemon Review App 
